@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\udi.Device_Controller_SignalR.props" />
+</Project>

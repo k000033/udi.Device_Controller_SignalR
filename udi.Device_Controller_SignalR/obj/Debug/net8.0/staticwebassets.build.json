@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "E512uX8XATUGZcRkFbAcVGdXwriRdwTNjzD4/4Lgb4o=",
+  "Source": "udi.Device_Controller_SignalR",
+  "BasePath": "_content/udi.Device_Controller_SignalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,6 @@
+@udi.Device_Controller_SignalR_HostAddress = http://localhost:5059
+
+GET {{udi.Device_Controller_SignalR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
